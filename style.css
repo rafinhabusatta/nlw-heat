@@ -28,7 +28,7 @@ main,
 }
 
 main {
-  background: url('images/background.svg') no-repeat center/cover;
+  background: url('images/back-main.svg') no-repeat center/cover;
   width: 100vw;
   height: 100vh;
   box-shadow: 2px 2px 25px #b76339;
@@ -114,7 +114,7 @@ ul {
 
 @media (min-width: 992px) {
   body {
-    background: #121214 url('images/back-desk.svg') no-repeat;
+    background: #121214 url('images/back-body.svg') no-repeat;
   }
 
   .faixa {
@@ -127,7 +127,7 @@ ul {
   }
 
   main {
-    background: url('images/bg-desk.svg') no-repeat center/cover;
+    background: url('images/back-main-desk.svg') no-repeat center/cover;
     max-width: 22.5rem;
     height: 33.75rem;
   }
