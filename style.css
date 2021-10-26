@@ -35,8 +35,6 @@ main {
   animation-name: card-shadow;
   animation-duration: 4s;
   animation-iteration-count: infinite;
-  margin-top: 100px;
-  border-radius: 10px;
 }
 
 @keyframes card-shadow {
@@ -130,6 +128,8 @@ ul {
     background: url('images/back-main-desk.svg') no-repeat center/cover;
     max-width: 22.5rem;
     height: 33.75rem;
+    margin-top: 100px;
+    border-radius: 10px;
   }
 
   .container {
